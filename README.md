@@ -44,4 +44,3 @@ The goal is to explore the dataset, clean the data, and generate insights using 
 
 ---
 
-## 📂 Project Structure
