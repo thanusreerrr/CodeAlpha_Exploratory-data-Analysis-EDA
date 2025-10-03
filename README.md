@@ -7,7 +7,7 @@
 ---
 
 ## 🔎 Project Overview
-This project focuses on performing **Exploratory Data Analysis (EDA)** on the Titanic dataset (`train.csv`).  
+This project focuses on performing **Exploratory Data Analysis (EDA)** on the Titanic dataset (`titanic_dataset.csv`).  
 The goal is to explore the dataset, clean the data, and generate insights using **visualization and statistical analysis**.  
 
 ---
